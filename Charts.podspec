@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = "Charts"
+  s.name = "nuinvest-ios-charts"
   s.version = "3.2.3"
   s.summary = "Charts is a powerful & easy to use chart library for iOS, tvOS and OSX (and Android)"
   s.homepage = "https://github.com/nubank/nuinvest-ios-charts"
